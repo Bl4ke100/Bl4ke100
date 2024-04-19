@@ -1,3 +1,5 @@
+#"Code is like humor. When you have to explain it, it’s bad."
+
 # 💫 About Me:
 🚀 Journeying Through: Currently diving deep into the freeCodeCamp ocean..<br>🌐 Team Ups: GeneX Software Solutions<br>📘 Current Quest: -<br>🔍 My Specialty: Bridging the gap between frontend flair and backend brains. Curious about the blend? Let's chat!<br>🌟 Did You Know?: They say I'm 'lazy', but I have a knack for getting things done in style.
 
