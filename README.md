@@ -13,11 +13,7 @@
 | <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=UpekHansaja&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a> | <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=UpekHansaja&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="UpekHansaja" /></p> |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-<br/>
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-<br/>
 
 
 ## 🏆 GitHub Trophies
