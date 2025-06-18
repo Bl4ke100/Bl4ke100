@@ -12,10 +12,11 @@
 | <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Bl4ke100&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a> | <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bl4ke100&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="Bl4ke100" /></p> |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
+| <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bl4ke100&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Streak" /></a> |
+| ------------------------------------------------------------------------------------------------------------------------------------ |
 
 
-
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies    
 ![](https://github-profile-trophy.vercel.app/?username=Bl4ke100&theme=gotham&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
