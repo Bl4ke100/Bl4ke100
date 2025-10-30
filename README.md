@@ -1,10 +1,12 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de30015f-dc5f-4ecf-a49b-ccd2b89776e4" width="500">
-<br><br>
-
 # "Code is like humor. When you have to explain it, it’s bad."
 
 # 💫 About Me:
 🚀 Journeying Through: Currently diving deep into the vast sea of coding challenges and projects, exploring new depths every day!..<br>🌐 Team Ups: GeneX Software Solutions, Crimson Script Software Solutions<br>📘 Current Quest: -<br>🔍 My Specialty: Bridging the gap between frontend flair and backend brains. Curious about the blend? Let's chat!<br>🌟 Did You Know?: They say I'm 'lazy', but I have a knack for getting things done in style.
+
+<div styles="display-flex justify-content-center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de30015f-dc5f-4ecf-a49b-ccd2b89776e4" width="500">
+<br><br>
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz_bl4ke) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@3l4ke) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@BlakeXO) 
