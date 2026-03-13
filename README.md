@@ -3,12 +3,22 @@
 
   <br>
   
-  # "Code is like humor. When you have to explain it, it’s bad."
+  # "Hi! I'm Blake"
+  <img align="center" width="230px" height="450px" alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
   
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Final-Year+Software+Engineering+Undergrad;Full-Stack+Developer;Wannabe+Game+Developer;Casual+Gamer;Video+Editor;Graphic+Designer" alt="Typing SVG" /></a>
+  
 </div>
 
 ---
+
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
+<br />
 
 # 💫 About Me
 - 🚀 **Journeying Through:** Surviving my final year as a software engineering undergrad while diving deep into full-stack and mobile dev.
@@ -28,18 +38,20 @@
 
 ---
 
-# 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.demolab.com/api?username=Bl4ke100&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats"
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=Bl4ke100&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.demolab.com/api/top-langs/?username=Bl4ke100&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
-</div>
+## 📊 GitHub Statistics
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bl4ke100&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bl4ke100&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="51%" />
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bl4ke100&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="99%" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bl4ke100&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="40%" />
+  </div>
+  
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bl4ke100&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Bl4ke100&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
 </div>
 
 ## 🔝 Top Contributed Repos
