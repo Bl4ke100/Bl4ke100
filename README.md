@@ -46,7 +46,9 @@
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bl4ke100&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="99%" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bl4ke100&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bl4ke100&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="43%" />
+
+  <img src="https://github-repository-contribution-stat-green.vercel.app/api?username=Bl4ke100&limit=4&theme=tokyonight&hide_border=true&show_owner=true&combine_all_yearly_contributions=false" alt="Top Repo" height="20%" width="56%"/>
   </div>
   
 ## 🏆 GitHub Trophies
