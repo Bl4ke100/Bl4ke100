@@ -66,7 +66,13 @@
 
   <img src="https://github-repository-contribution-stat-green.vercel.app/api?username=Bl4ke100&limit=4&theme=tokyonight&hide_border=true&show_owner=true&combine_all_yearly_contributions=false&custom_title=Top+Repos" alt="Top Repo" height="20%" width="56%"/>
   </div>
-  
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bl4ke100/Bl4ke100/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bl4ke100/Bl4ke100/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Bl4ke100/Bl4ke100/output/github-snake.svg" width="100%">
+</picture>
+
 ## 🏆 GitHub Trophies
 <p align="center">
   <a href="https://github.com/Bl4ke100">
