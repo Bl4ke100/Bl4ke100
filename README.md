@@ -84,6 +84,36 @@
   </a>
 </p>
 
+---
+
+## 🎵 Spotify Stats
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" valign="top">
+        <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31zm34manjjfajcu3pxcmpokunsm&redirect=true">
+          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31zm34manjjfajcu3pxcmpokunsm&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true" alt="Now Playing">
+        </a>
+      </td>
+      <td align="center" valign="top">
+        <a href="https://open.spotify.com/user/31zm34manjjfajcu3pxcmpokunsm">
+          <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31zm34manjjfajcu3pxcmpokunsm&count=7&width=570&duration=1&album=1" alt="Spotify recently played" width="570" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🎮 Steam Profile
+
+<div align="center">
+  <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561199235142318&show_recent_game_bg=true" alt="Steam Stats" />
+</div>
+
+---
 
 ## ✍️ Random Dev Quote
 <div align="center">
@@ -100,16 +130,16 @@
 <div align="center">
 <br/>
 
-<a href="janindumagamage100@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="kirannaragund197@gmail.com" style="margin-bottom: 5px;" />
+<a href="mailto:janindumagamage100@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="email" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://tiktok.com/@3l4ke">
-<img src="./tiktok.png" width=50 height=50 alt="kiran__a__n" style="margin-bottom: 5px;" />
+<img src="./tiktok.png" width=50 height=50 alt="tiktok" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.youtube.com/@BlakeXO" target="_blank">
-<img src="./youtube.png" width=50 height=50 alt="kiran_a_n" style="margin-bottom: 5px;" />
+<img src="./youtube.png" width=50 height=50 alt="youtube" style="margin-bottom: 5px;" />
 </a>
 
 </div>
