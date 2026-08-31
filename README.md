@@ -110,7 +110,7 @@
 ## 🎮 Steam Profile
 
 <div align="center">
-  <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561199235142318&show_recent_game_bg=true" alt="Steam Stats" />
+  <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561199235142318&show_recent_game_bg=true" />
 </div>
 
 ---
